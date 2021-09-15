@@ -9,7 +9,7 @@ Now Python has been developped and very famous in data research / data science, 
 | About	     | Description      |
 |------------|------------------|
 |Skill Level | Beginner Level   |
-|Class       | Class 3 of 3     |
+|Class       | Class 1 of 3     |
 |Duration	 | 2 Hours Per Class|
 |Language	 | English          |
 
@@ -32,13 +32,14 @@ Now Python has been developped and very famous in data research / data science, 
 - 💻 A PC or Laptop with Minimum 8GB RAM
 - ✉️ Google Account for google colab. Register here
 
-# 3rd Class: Learn string data type, and define your own functions
+# First Class: Introduction to programming and Python
 
-1. collection data types in python: tuple, list, set, dict
-2. deepen understanding of mutable / immutable
-3. shallow copy / deep copy
-4. in operator
-5. recursion function 
+1. Introduction to programming
+2. Python environment setup
+3. Python coding syntax
+4. Python data types
+5. Python operators
+6. Python flow control
 
 # From Instructor
 
